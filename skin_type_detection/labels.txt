@@ -1,0 +1,4 @@
+0 Normal
+1 Dry
+2 Oily
+3 Combination
